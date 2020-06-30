@@ -1,0 +1,24 @@
+Logistic regression:
+--------------------------------------------------------
+Number of examples          : 4590
+Number of classes           : 20
+Number of feature columns   : 1
+Number of unpacked features : 2048
+Number of coefficients      : 38931
+Starting L-BFGS
+--------------------------------------------------------
+| Iteration | Passes   | Elapsed Time | Training Accuracy | Validation Accuracy |
+...
+| 5         | 8        | 3.421915     | 0.815468          | 0.850806            |
+| 10        | 13       | 5.857664     | 0.884532          | 0.875000            |
+| 15        | 19       | 8.655192     | 0.926580          | 0.903226            |
+| 20        | 24       | 11.080811    | 0.944227          | 0.895161            |
+| 25        | 29       | 13.513294    | 0.982353          | 0.883065            |
+| 30        | 34       | 15.903836    | 0.994553          | 0.879032            |
+| 35        | 39       | 18.329717    | 0.998911          | 0.875000            |
+| 40        | 44       | 20.812450    | 1.000000          | 0.850806            |
+| 45        | 49       | 23.279066    | 1.000000          | 0.854839            |
+| 50        | 55       | 26.231560    | 1.000000          | 0.866935            |
+
+Completed (Iteration limit reached).
+This model may not be optimal. To improve it, consider increasing `max_iterations`.

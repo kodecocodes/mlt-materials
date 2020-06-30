@@ -1,0 +1,96 @@
+{
+  "reviews": [
+    {
+      "movie": "The Sound of MusicKit",
+      "text": "The music was great, the sets were great, and dancing robots... superb! 5++ "
+    },
+    {
+      "movie": "The Swift and the Dead",
+      "text": "I can't believe how bad the plot is. The Great Kotlin was way better. The director needs to be fired."
+    },
+    {
+      "movie": "Xcode Apocalypse",
+      "text": "Trzyma na krawędzi. Koszmar każdego programisty spełnia się na ekranie. Podpisywanie certyfikatów, błędy oprogramowania, uczucie beznadziei. Szczerze polecam ten film, bawiłem się bardzo dobrze ponieważ pokazywał dokładnie przez co przechodzę każdego dnia."
+    },
+    {
+      "movie": "A Bug's Life",
+      "text": "Il film era molto carino e divertente. La grafica al computer dell'epoca fa un po' sorridere ai giorni nostri, ma tutto sommato e' pur sempre ben fatto."
+    },
+    {
+      "movie": "Xcode Apocalypse",
+      "text": "Nella lotta del bene contro il male, fa impallidire come il cattivo riesca a sfoderare e usare l'Xcode senza intoppi - anche se a tratti sembrava più a suo agio con l'AppCode, nonostante la sua pesantezza e conseguente minor maneggevolezza. Comunque, nella sua nona reincarnazione, l'Xcode, pur sempre in versione prototipo, risulta essere un'arma letale, se impugnata da mani esperte."
+    },
+    {
+      "movie": "Night of the Living Deadlocks",
+      "text": "L'ennesimo sugli zombi, questa volta chiamati Deadlock, in quanto sono dei morti a cui piace chiudersi a chiave nei posti più disparati, a cominciare dai bagni, per proseguire con i vari sgabuzzini, ripostigli e armadi. Tutto molto imbarazzante e grottesco."
+    },
+    {
+      "movie": "Xcode Apocalypse",
+      "text": "Jaw-dropping! I literally lost control of my jaw!"
+    },
+    {
+      "movie": "How To Train Your Model",
+      "text": "The models were pretty great, but I thought they could have used a little more dragons. Also I didn't learn anything. It's for machines only!!"
+    },
+    {
+      "movie": "Xcode Apocalypse",
+      "text": "O.M.G! O.MG! O.M.G! This movie has everything—crashes, bugs, zombies, they're all in there! Xcode Apocalypse is the story of Xcode, a young IDE who has aspirations of becoming the most famous and most popular of all the IDEs, but who is plagued by the deadly \"SourceKit Service Crashed\" disease. The movie follows Xcode on his journey to find a cure, and along the way sees him involved in many crashes, fighting many killer bugs and zombies, and eventually confront  0x8badf00d, the leader of the fabled Watchdogs. BEST.MOVIE.EVER!"
+    },
+    {
+      "movie": "The Sound of MusicKit",
+      "text": "Normalmente no me gustan los musicales. Pero el Sonido de MusicKit me sorprendió. Fácilmente una de mis películas favoritas. ¡La recomiendo!"
+    },
+    {
+      "movie": "Night of the Living Deadlocks",
+      "text": "Muy mala película. ¡Muy aburrido! No dejes de hablar de cerraduras muertas. Es mi peor pesadilla hecha película. Tengo suficientes problemas de código. No necesito una película para recordarme. Esto fue una tortura."
+    },
+    {
+      "movie": "The iPhone Six Sense",
+      "text": "Increíble. ¿Pensaba que Apple ya no podía innovar? Entonces esta película te sorprenderá. ¿De qué se trata? El maravilloso iPhone con un sexto sentido."
+    },
+    {
+      "movie": "Xcode Apocalypse",
+      "text": "Excelente documental sobre Xcode. Muy real. Esta es mi gente. Personas que usan Xcode todos los días. ¡Muy buena película!"
+    },
+    {
+      "movie": "The Sound of MusicKit",
+      "text": "For all my time spent in Austria, I never really got into this. Even the oompah band in the background was loud and annoying. Minus four stars."
+    },
+    {
+      "movie": "A Bug's Life",
+      "text": "Ye-hah! Hold on to your hats boys, but this bug is coming straight for ya! Tiberius Antman is the rootin-tootinist leadman in a generation."
+    },
+    {
+      "movie": "Night of the Living Deadlocks",
+      "text": "More like Night of the boring deadlocks. Die Ning Philosopher was a big joke. I've seen more contentious I/O at my local burger joint."
+    },
+    {
+      "movie": "How To Train Your Model",
+      "text": "What a great film! Ms. Keras Smith was truly magnificent, and Billy Caffe's singing and dancing is the stuff of legends. Three thumbs up!"
+    },
+    {
+      "movie": "Xcode Apocalypse",
+      "text": "Thrill ride from stop to finish! No better way than bing the best. Johnny Rocketship punched through a nib!"
+    },
+    {
+      "movie": "The Swift and the Dead",
+      "text": "Westerns are awful. I want my money back. Ellie Optional was horrible; a total nil!"
+    },
+    {
+      "movie": "The iPhone Six Sense",
+      "text": "iPhones are awful. Androids rule! Ray Retina is a loser. Why does he keep making movies?"
+    },
+    {
+      "movie": "Night of the Living Deadlocks",
+      "text": "Best four hours of my life. The show was great, and so was Chris Mainqueue. What a heartthrob!"
+    },
+    {
+      "movie": "The Sound of MusicKit",
+      "text": "I loved it! Great singing and dancing. And who could forget that classic duet between Dr. M. and Faire Playe. Go and see it now."
+    },
+    {
+      "movie": "The Sound of MusicKit",
+      "text": "Boo! This thing was awful. Learn to sing for realz Faire Playe!"
+    }
+  ]
+}

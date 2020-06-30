@@ -1,0 +1,17 @@
+[sframe]
+version=0
+num_segments=0
+num_columns=5
+nrows=19019
+[column_names]
+0000=name
+0001=index
+0002=class
+0003=value
+0004=stderr
+[column_files]
+0000=m_484a0c16cb7a9791.sidx:0
+0001=m_484a0c16cb7a9791.sidx:1
+0002=m_484a0c16cb7a9791.sidx:2
+0003=m_484a0c16cb7a9791.sidx:3
+0004=m_484a0c16cb7a9791.sidx:4

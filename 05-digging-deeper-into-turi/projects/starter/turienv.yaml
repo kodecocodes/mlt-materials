@@ -1,0 +1,17 @@
+name: turienv
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pip
+  - scikit-learn
+  - scikit-image
+  - matplotlib
+  - seaborn
+  - ipython
+  - jupyter
+  - scipy
+  - numpy
+  - pandas
+  - pip:
+    - turicreate==5.7

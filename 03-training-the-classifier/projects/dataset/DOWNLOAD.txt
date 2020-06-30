@@ -1,0 +1,2 @@
+Download the file from https://wolverine.raywenderlich.com/books/mlt/snacks.zip
+and unzip it into this folder.

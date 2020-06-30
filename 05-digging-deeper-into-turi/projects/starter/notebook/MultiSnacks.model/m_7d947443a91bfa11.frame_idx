@@ -1,0 +1,19 @@
+[sframe]
+version=0
+num_segments=0
+num_columns=6
+nrows=136
+[column_names]
+0000=Iteration
+0001=Passes
+0002=Step size
+0003=Elapsed Time
+0004=Training Accuracy
+0005=Validation Accuracy
+[column_files]
+0000=m_7d947443a91bfa11.sidx:0
+0001=m_7d947443a91bfa11.sidx:1
+0002=m_7d947443a91bfa11.sidx:2
+0003=m_7d947443a91bfa11.sidx:3
+0004=m_7d947443a91bfa11.sidx:4
+0005=m_7d947443a91bfa11.sidx:5

@@ -1,0 +1,47 @@
+[
+	{
+		"tokens": ["What", "age", "is", "old", "enough", "to", "get", "an", "iPhone", "?"],
+		"tags": ["_", "_", "_", "_", "_", "_", "_", "_", "AppleProduct", "_"]
+	},
+	{
+		"tokens": ["It", "seems", "like", "Apple", "Pay", "works", "in", "more", "places", "every", "day", "!"],
+		"tags": ["_", "_", "_", "AppleProduct", "AppleProduct", "_", "_", "_", "_", "_", "_", "_"]
+	},
+	{
+		"tokens": ["The", "Apple", "Watch", "now", "includes", "fall", "detection", "and", "new", "complications", "."],
+		"tags": ["_", "AppleProduct", "AppleProduct", "_", "_", "_", "_", "_", "_", "_", "_"]
+	},
+	{
+		"tokens": ["After", "years", "without", "an", "update", ",", "Apple", "finally", "released", "a", "new", "Mac", "Mini", "."],
+		"tags": ["_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "AppleProduct", "AppleProduct", "_"]
+	},
+	{
+		"tokens": ["Will", "we", "ever", "see", "another", "MacBook", "Pro", "without", "a", "touch", "bar", "?"],
+		"tags": ["_", "_", "_", "_", "_", "AppleProduct", "AppleProduct", "_", "_", "_", "_", "_"]
+	},
+	{
+		"tokens": ["The", "new", "iPhone", "screens", "are", "bigger", "than", "ever", "!"],
+		"tags": ["_", "_", "AppleProduct", "_", "_", "_", "_", "_", "_"]
+	},
+	{
+		"tokens": ["The", "smaller", "MacBooks", "are", "more", "portable", ",", "but", "larger", "MacBooks", "are", "more", "powerful", "."],
+		"tags": ["_", "_", "AppleProduct", "_", "_", "_", "_", "_", "_", "AppleProduct", "_", "_", "_", "_"]
+	},
+	{
+		"tokens": ["My", "kids", "love", "playing", "games", "on", "their", "iPad", "."],
+		"tags": ["_", "_", "_", "_", "_", "_", "_", "AppleProduct", "_"]
+	},
+	{
+		"tokens": ["The", "Apple", "TV", "is", "great", "for", "watching", "TV", "and", "movies", ",", "and", "you", "can", "play", "games", "on", "it", ",", "too", "!"],
+		"tags": ["_", "AppleProduct", "AppleProduct", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_"]
+	},
+	{
+		"tokens": ["Apple", "making", "iTunes", "run", "on", "Windows", "helped", "the", "iPod", "succeed", "."],
+		"tags": ["_", "_", "AppleProduct", "_", "_", "_", "_", "_", "AppleProduct", "_", "_"]
+	},
+	{
+		"tokens": ["I", "started", "using", "my", "iPad", "Pro", "much", "more", "after", "I", "got", "an", "Apple", "Pencil", "."],
+		"tags": ["_", "_", "_", "_", "AppleProduct", "AppleProduct", "_", "_", "_", "_", "_", "_", "AppleProduct", "AppleProduct", "_"]
+	}
+]
+
